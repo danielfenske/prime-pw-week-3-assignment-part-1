@@ -62,6 +62,7 @@ console.log('The last animal in the array is', animalArray[3]);
 //      instead of the exact index number of the last item
 
 console.log('The last animal in the array is', animalArray[animalArray.length-1]);
+//Output: The last animal in the array is 'dog'.
 
 
 
